@@ -14,13 +14,7 @@ The calculator can perform the following operations:
 - Division
 
 
-## Deployment
 
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 
 
 ## Installation
